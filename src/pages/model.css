@@ -1,0 +1,21 @@
+.divh2 {
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: -6px 4px 18px -9px rgba(34, 13, 173, 0.52);
+  -webkit-box-shadow: -6px 4px 18px -9px rgba(34, 13, 173, 0.52);
+  -moz-box-shadow: -6px 4px 18px -9px rgba(34, 13, 173, 0.52);
+
+  color: rgba(237, 67, 67, 0.75);
+}
+.btn {
+  left: 20px;
+  align-items: center;
+  margin-top: 20px;
+  border: 0ch;
+  border-radius: 20px;
+  box-shadow: -2px 0px 36px -9px rgba(34, 13, 173, 0.52);
+  -webkit-box-shadow: -2px 0px 36px -9px rgba(34, 13, 173, 0.52);
+  -moz-box-shadow: -2px 0px 36px -9px rgba(34, 13, 173, 0.52);
+
+  color: rgba(237, 67, 67, 0.75);
+}
